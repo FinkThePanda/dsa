@@ -1,0 +1,15 @@
+<Project Sdk="Microsoft.NET.Sdk">
+  <PropertyGroup>
+    <OutputType>Exe</OutputType>
+    <TargetFramework>net10.0</TargetFramework>
+    <ImplicitUsings>enable</ImplicitUsings>
+    <Nullable>enable</Nullable>
+    <EnableDefaultCompileItems>false</EnableDefaultCompileItems>
+    <Challenge Condition="'$(Challenge)' == ''">grey-basics/01-hello-world</Challenge>
+  </PropertyGroup>
+  <ItemGroup>
+    <Compile Include="Check.cs" />
+    <Compile Include="../challenges/$(Challenge)/Solution.cs" />
+    <Compile Include="../challenges/$(Challenge)/Tests.cs" />
+  </ItemGroup>
+</Project>

@@ -1,0 +1,152 @@
+[
+  {
+    "id": "hello-world",
+    "path": "grey-basics/01-hello-world",
+    "tier": "Grey",
+    "title": "Hello World"
+  },
+  {
+    "id": "fizzbuzz",
+    "path": "grey-basics/02-fizzbuzz",
+    "tier": "Grey",
+    "title": "Fizzbuzz"
+  },
+  {
+    "id": "reverse-string",
+    "path": "grey-basics/03-reverse-string",
+    "tier": "Grey",
+    "title": "Reverse String"
+  },
+  {
+    "id": "find-max",
+    "path": "grey-basics/04-find-max",
+    "tier": "Grey",
+    "title": "Find Max"
+  },
+  {
+    "id": "recursive-fibonacci",
+    "path": "white-foundations/01-recursive-fibonacci",
+    "tier": "White",
+    "title": "Recursive Fibonacci"
+  },
+  {
+    "id": "swap-variables",
+    "path": "white-foundations/02-swap-variables",
+    "tier": "White",
+    "title": "Swap Variables"
+  },
+  {
+    "id": "custom-struct-builder",
+    "path": "white-foundations/03-custom-struct-builder",
+    "tier": "White",
+    "title": "Custom Struct Builder"
+  },
+  {
+    "id": "valid-parentheses",
+    "path": "green-data-structures/01-valid-parentheses",
+    "tier": "Green",
+    "title": "Valid Parentheses"
+  },
+  {
+    "id": "reverse-linked-list",
+    "path": "green-data-structures/02-reverse-linked-list",
+    "tier": "Green",
+    "title": "Reverse Linked List"
+  },
+  {
+    "id": "binary-search",
+    "path": "green-data-structures/03-binary-search",
+    "tier": "Green",
+    "title": "Binary Search"
+  },
+  {
+    "id": "array-queue",
+    "path": "green-data-structures/04-array-queue",
+    "tier": "Green",
+    "title": "Array Queue"
+  },
+  {
+    "id": "two-sum",
+    "path": "blue-intermediate/01-two-sum",
+    "tier": "Blue",
+    "title": "Two Sum"
+  },
+  {
+    "id": "invert-binary-tree",
+    "path": "blue-intermediate/02-invert-binary-tree",
+    "tier": "Blue",
+    "title": "Invert Binary Tree"
+  },
+  {
+    "id": "number-of-islands",
+    "path": "blue-intermediate/03-number-of-islands",
+    "tier": "Blue",
+    "title": "Number Of Islands"
+  },
+  {
+    "id": "top-k-frequent",
+    "path": "blue-intermediate/04-top-k-frequent",
+    "tier": "Blue",
+    "title": "Top K Frequent"
+  },
+  {
+    "id": "climbing-stairs",
+    "path": "purple-advanced/01-climbing-stairs",
+    "tier": "Purple",
+    "title": "Climbing Stairs"
+  },
+  {
+    "id": "word-search",
+    "path": "purple-advanced/02-word-search",
+    "tier": "Purple",
+    "title": "Word Search"
+  },
+  {
+    "id": "dijkstra",
+    "path": "purple-advanced/03-dijkstra",
+    "tier": "Purple",
+    "title": "Dijkstra"
+  },
+  {
+    "id": "implement-trie",
+    "path": "purple-advanced/04-implement-trie",
+    "tier": "Purple",
+    "title": "Implement Trie"
+  },
+  {
+    "id": "trapping-rain-water",
+    "path": "gold-expert/01-trapping-rain-water",
+    "tier": "Gold",
+    "title": "Trapping Rain Water"
+  },
+  {
+    "id": "n-queens",
+    "path": "gold-expert/02-n-queens",
+    "tier": "Gold",
+    "title": "N Queens"
+  },
+  {
+    "id": "alien-dictionary",
+    "path": "gold-expert/03-alien-dictionary",
+    "tier": "Gold",
+    "title": "Alien Dictionary"
+  },
+  {
+    "id": "range-sum-query",
+    "path": "gold-expert/04-range-sum-query",
+    "tier": "Gold",
+    "title": "Range Sum Query"
+  },
+  {
+    "id": "union-find",
+    "path": "gold-expert/05-union-find",
+    "tier": "Gold",
+    "title": "Union Find"
+  },
+  {
+    "id": "edit-distance",
+    "path": "gold-expert/06-edit-distance",
+    "tier": "Gold",
+    "title": "Edit Distance"
+  }
+]
