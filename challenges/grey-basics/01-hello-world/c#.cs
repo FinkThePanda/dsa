@@ -2,12 +2,10 @@
 // Run from the repository root: ./scripts/run.ps1 hello-world
 
 using System;
-
-public sealed class Tests
+public sealed class Solution
 {
     public static int Main()
     {
-        Console.WriteLine("Hello, DSA!");
         return 0;
     }
 }
